@@ -21,6 +21,6 @@
 - Moore Machine: The outputs depend only on the current state. State transitions are driven by inputs.
 - Mealy Machine: The outputs depend on both the current state and the inputs. Transitions can occur based on inputs and current state.
 - ## Technology used
--Simulation Tools: ModelSim
+- Simulation Tools: ModelSim
  ## output wave forms
  ![traffic light_fsm](https://github.com/user-attachments/assets/9743ec69-fa87-4252-9c2a-3817a3b8dd10)
