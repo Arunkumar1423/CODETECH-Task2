@@ -2,8 +2,8 @@
 - ### Company:  CODTECH IT SOLUTIONS
 - ### ID:  CT08DS5134
 - ### Domain: VLSI
-- ### Duration:*JULY 15th, 2024 to AUGUST 15th, 2024.
-- ### Mentor:* Neela Santhosh Kumar
+- ### Duration:JULY 15th, 2024 to AUGUST 15th, 2024.
+- ### Mentor: Neela Santhosh Kumar
 ## OVER VIEW OF PROJECT :
 ### PROJECT :DIGITAL LOGIC DESIGN WITH VERILOG
 - ### Objective:
