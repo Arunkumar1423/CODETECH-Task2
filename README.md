@@ -5,7 +5,7 @@
 - ### Duration:JULY 15th, 2024 to AUGUST 15th, 2024.
 - ### Mentor: Neela Santhosh Kumar
 ## OVER VIEW OF PROJECT :
-### PROJECT :DIGITAL LOGIC DESIGN WITH VERILOG
+### PROJECT :Traffic light controller WITH VERILOG
 - ### Objective:
  Finite State Machine (FSM) design is a key concept in digital logic and hardware design, used to model systems with a finite number of states.
  FSMs are widely used in various applications, from simple controllers to complex digital systems. Here's an overview of FSM design, including its concepts, types, design process, and examples using Verilog.
